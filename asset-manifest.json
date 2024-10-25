@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RA-Redux-market/static/css/main.95237b58.css",
+    "main.js": "/RA-Redux-market/static/js/main.beebe6f4.js",
+    "static/media/Montserrat-Regular.woff2": "/RA-Redux-market/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/RA-Redux-market/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "index.html": "/RA-Redux-market/index.html",
+    "main.95237b58.css.map": "/RA-Redux-market/static/css/main.95237b58.css.map",
+    "main.beebe6f4.js.map": "/RA-Redux-market/static/js/main.beebe6f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95237b58.css",
+    "static/js/main.beebe6f4.js"
+  ]
+}
